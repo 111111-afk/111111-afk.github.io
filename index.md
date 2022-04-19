@@ -5,4 +5,4 @@ Hello and welcome to this blog. Edit the `index.md` file to change this content.
 ## This is a title
 
 And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
-[link to 111111-afk.github.io](https://111111-afk.github.io/posts/)
+[link to 111111-afk.github.io](https://111111-afk.github.io/_posts/)
